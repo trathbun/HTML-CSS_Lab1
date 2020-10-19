@@ -1,0 +1,44 @@
+
+    
+
+body{
+    background-color: #f9fafc;
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav a{
+    text-decoration: none;
+    color: #69696a;
+    display: block;
+    padding: 5px 0px;
+    margin: 0 10px;
+}
+
+nav p{
+    margin: 0 10px;
+    padding: 5px 0px;
+}
+
+h1{
+    margin: auto auto; 
+    padding: 10px;
+    margin: 5px;
+}
+
+blockquote{
+    color: #69696a;
+    padding: 0px 10px;
+    margin: 10px 10px;
+    border-left: 2px solid #69696a;
+}
+
+button{
+    color: #FFF;
+    background: #000;
+    border: none;
+    padding: 8px;
+    margin: 10px 10px;
+    width: 98%;
+    border-radius: 20px;
+    text-align: center;
+}
